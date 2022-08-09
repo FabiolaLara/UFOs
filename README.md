@@ -14,7 +14,15 @@
 
   Using the table for inputs by the user, a Date will be neccesary to search the information, the City, State, Country and Shape fields will complete the rest of the filter information for a more complete data retrieved.
   
+  The way this information is search is very smart due the table request specific data to the user to filter information from the internet, offering a huge advantage beacuse people don´t have to develop web pages from zero, Java offers the posibility to code a little bit and get a vast information data.
+  
+    The nex image shows how the index file is display once we just open it.
 ![web_page](/Resources/web_page.png)
+
+This image shows the fields that will be fill by the user, there is written in a light color an example i how information must be typed.
+
 ![TableInputs](/Resources/table.png)
 
 # Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+
+  One of the drawback issues using Java is that the basic information to code to retrieve data from the internet is considerably extensive, and you need to be very carefully while doing it, there must be a structure in order to not to be lost or miss a detail. On the other hand it is very efficient once we have the design of the web page, using this type of programs the appliance is huge, having this information retrieved for the internet, we could make some analysis about interest from people, for example, asking clients whay they like or dislike for specific information that exist in the Internet, avoiding us to invent the black thread.
