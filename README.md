@@ -14,5 +14,7 @@
 
   Using the table for inputs by the user, a Date will be neccesary to search the information, the City, State, Country and Shape fields will complete the rest of the filter information for a more complete data retrieved.
   
+![web_page](/Resources/web_page.png)
+![TableInputs](/Resources/table.png)
 
 # Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
