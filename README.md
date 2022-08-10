@@ -19,7 +19,7 @@
     The nex image shows how the index file is displayed once we just click on it.
 ![web_page](/Resources/web_page.png)
 
-This image shows the fields that will be filled by the user, there is some information that appear automatically i the text box in order the user knows what kind of information must be typed.
+This image shows the fields that will be filled by the user, there is some information that appear automatically in the text box in order to let users know what kind of information must be typed.
 
 ![TableInputs](/Resources/table.png)
 
